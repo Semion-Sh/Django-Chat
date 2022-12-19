@@ -6,4 +6,3 @@
 
 <img src='media_github/Снимок экрана 2022-12-19 в 21.01.17.png' height="465">
 <img src='media_github/Снимок экрана 2022-12-19 в 21.04.42.png' height="300"> <img src='media_github/Снимок экрана 2022-12-19 в 21.05.05.png' height="300">
-<img src='media_github/Снимок экрана 2022-12-19 в 21.04.12.png' height="465">
