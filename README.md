@@ -5,4 +5,4 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/green?icon=github)](https://github.com/Naereen/badges/)
 
 <img src='media_github/Снимок экрана 2022-12-19 в 21.01.17.png' height="465"> <img src='media_github/Снимок экрана 2022-12-19 в 21.04.12.png' height="465">
-<img src='media_github/Снимок экрана 2022-12-19 в 21.04.29.png' height="575"><img src='media_github/Снимок экрана 2022-12-19 в 21.04.42.png' height="600"> <img src='media_github/Снимок экрана 2022-12-19 в 21.05.05.png' height="600">
+<img src='media_github/Снимок экрана 2022-12-19 в 21.04.29.png' height="300"><img src='media_github/Снимок экрана 2022-12-19 в 21.04.42.png' height="300"> <img src='media_github/Снимок экрана 2022-12-19 в 21.05.05.png' height="300">
